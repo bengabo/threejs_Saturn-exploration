@@ -1,6 +1,4 @@
-.DS_Store
-node_modules
-/dist
+/node_modules
 .cache
 
 # Editor directories and files
